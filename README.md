@@ -105,6 +105,8 @@ The notebook includes a t-SNE reduction to 2D for embedding visualization. Point
 Example plot (generated in the notebook):
 - Scatter plot showing movie embeddings in 2D space.
 - Helps identify clusters of similar movies.
+- 
+## Note : in this note book i alos tried to implement word2vec kind of implementation ,but hwvere it didnt work well got loss over 2.8 (approx) for all the epochs)
 
 ## Limitations
 
