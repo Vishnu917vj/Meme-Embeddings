@@ -1,0 +1,636 @@
+Movie1,Movie2,Label
+Ala Vaikunthapurramuloo,Saaho,1
+Arjun Reddy,Jersey,1
+Pushpa: The Rise,Vakeel Saab,1
+Rangasthalam,Shyam Singha Roy,1
+Athadu,Akhanda,1
+Srimanthudu,Pushpa: The Rise,1
+Arjun Reddy,Pushpa: The Rise,1
+Pokiri,Vakeel Saab,1
+Baahubali 2: The Conclusion,Mahanati,1
+Athadu,Geetha Govindam,0
+Srimanthudu,Arjun Reddy,1
+Vakeel Saab,Agent Sai Srinivasa Athreya,1
+Karthikeya 2,Agent Sai Srinivasa Athreya,1
+Baahubali: The Beginning,Geetha Govindam,0
+Rangasthalam,Saaho,1
+Baahubali: The Beginning,Jersey,1
+Arjun Reddy,Radhe Shyam,1
+Radhe Shyam,Karthikeya 2,0
+Baahubali: The Beginning,Pokiri,1
+Srimanthudu,Race Gurram,1
+Sita Ramam,Akhanda,0
+Athadu,Race Gurram,1
+Srimanthudu,Vakeel Saab,1
+Mahanati,Arjun Reddy,1
+Athadu,Manam,0
+Baahubali: The Beginning,Magadheera,1
+Magadheera,Bharat Ane Nenu,1
+Dookudu,Rangasthalam,1
+Akhanda,1: Nenokkadine,1
+Jersey,Major,1
+Athadu,Mahanati,0
+Arjun Reddy,Liger,1
+Baahubali 2: The Conclusion,Liger,1
+Baahubali: The Beginning,Vakeel Saab,1
+Geetha Govindam,Jersey,0
+RRR,Pokiri,1
+Sita Ramam,Radhe Shyam,1
+Ala Vaikunthapurramuloo,Radhe Shyam,1
+Pokiri,Agent Sai Srinivasa Athreya,1
+Sita Ramam,Karthikeya 2,0
+Arjun Reddy,Agent Sai Srinivasa Athreya,0
+Dookudu,Shyam Singha Roy,0
+Pushpa: The Rise,Shyam Singha Roy,1
+Eega,Liger,1
+Radhe Shyam,Manam,1
+Bharat Ane Nenu,Rangasthalam,1
+Athadu,Srimanthudu,1
+Pokiri,Karthikeya 2,1
+Mahanati,Sita Ramam,1
+Jersey,Liger,1
+Baahubali 2: The Conclusion,Sita Ramam,1
+Magadheera,Karthikeya 2,0
+Eega,Shyam Singha Roy,0
+Pokiri,1: Nenokkadine,1
+Baahubali 2: The Conclusion,Saaho,1
+Baahubali 2: The Conclusion,Dookudu,1
+Ala Vaikunthapurramuloo,Manam,1
+Shyam Singha Roy,Agent Sai Srinivasa Athreya,1
+Magadheera,Geetha Govindam,1
+Dookudu,1: Nenokkadine,1
+Magadheera,Race Gurram,1
+Bharat Ane Nenu,Akhanda,1
+Srimanthudu,Sita Ramam,1
+Athadu,Liger,1
+Shyam Singha Roy,Race Gurram,0
+Magadheera,Ala Vaikunthapurramuloo,1
+Geetha Govindam,Liger,0
+Pokiri,Shyam Singha Roy,1
+Ala Vaikunthapurramuloo,Agent Sai Srinivasa Athreya,1
+RRR,Sita Ramam,1
+Eega,Vakeel Saab,0
+Srimanthudu,Jersey,1
+Magadheera,Srimanthudu,1
+RRR,Akhanda,1
+Shyam Singha Roy,1: Nenokkadine,1
+Mahanati,Agent Sai Srinivasa Athreya,0
+Jersey,1: Nenokkadine,0
+Dookudu,Agent Sai Srinivasa Athreya,1
+Baahubali 2: The Conclusion,Arjun Reddy,1
+Geetha Govindam,Manam,1
+Baahubali 2: The Conclusion,Akhanda,1
+Magadheera,Pokiri,1
+Geetha Govindam,Vakeel Saab,0
+Arjun Reddy,Karthikeya 2,0
+Baahubali: The Beginning,Manam,1
+Arjun Reddy,Rangasthalam,1
+Pokiri,Manam,1
+RRR,Geetha Govindam,0
+Pushpa: The Rise,Liger,1
+Magadheera,Rangasthalam,1
+Dookudu,Race Gurram,1
+Baahubali 2: The Conclusion,Race Gurram,1
+Rangasthalam,Vakeel Saab,1
+Bharat Ane Nenu,Geetha Govindam,0
+Major,Manam,1
+Pokiri,Jersey,0
+Srimanthudu,1: Nenokkadine,1
+Baahubali 2: The Conclusion,Eega,1
+RRR,Saaho,1
+Pokiri,Mahanati,0
+Major,1: Nenokkadine,1
+Radhe Shyam,Vakeel Saab,1
+Athadu,Major,1
+Bharat Ane Nenu,Jersey,1
+RRR,Vakeel Saab,1
+Dookudu,Manam,1
+Dookudu,Sita Ramam,0
+Baahubali: The Beginning,Arjun Reddy,1
+RRR,Arjun Reddy,1
+Jersey,Rangasthalam,1
+Baahubali: The Beginning,Major,1
+Arjun Reddy,1: Nenokkadine,0
+Magadheera,Agent Sai Srinivasa Athreya,0
+RRR,Mahanati,1
+RRR,Dookudu,1
+Jersey,Race Gurram,0
+Baahubali: The Beginning,Dookudu,1
+Eega,Jersey,0
+Arjun Reddy,Shyam Singha Roy,1
+Bharat Ane Nenu,Vakeel Saab,1
+Eega,1: Nenokkadine,1
+RRR,Jersey,1
+Magadheera,Sita Ramam,1
+RRR,Karthikeya 2,0
+Baahubali: The Beginning,Srimanthudu,1
+Rangasthalam,Agent Sai Srinivasa Athreya,0
+Srimanthudu,Agent Sai Srinivasa Athreya,0
+RRR,Major,1
+Athadu,Arjun Reddy,0
+Baahubali 2: The Conclusion,Geetha Govindam,0
+Pokiri,Sita Ramam,0
+Athadu,Dookudu,1
+Sita Ramam,Pushpa: The Rise,1
+Pushpa: The Rise,Akhanda,1
+Geetha Govindam,Akhanda,0
+Magadheera,Radhe Shyam,1
+Arjun Reddy,Sita Ramam,1
+Magadheera,Pushpa: The Rise,1
+Pokiri,Rangasthalam,1
+Athadu,Pushpa: The Rise,1
+Bharat Ane Nenu,Arjun Reddy,1
+Major,Liger,1
+Mahanati,Akhanda,0
+Mahanati,Jersey,1
+Dookudu,Mahanati,0
+Bharat Ane Nenu,1: Nenokkadine,1
+Geetha Govindam,1: Nenokkadine,0
+Pushpa: The Rise,1: Nenokkadine,1
+Major,Vakeel Saab,1
+Dookudu,Saaho,1
+Manam,Liger,1
+Athadu,Saaho,1
+Bharat Ane Nenu,Race Gurram,1
+Eega,Srimanthudu,1
+Baahubali: The Beginning,Karthikeya 2,0
+Geetha Govindam,Shyam Singha Roy,1
+Eega,Ala Vaikunthapurramuloo,1
+Mahanati,Ala Vaikunthapurramuloo,1
+Major,Shyam Singha Roy,1
+Athadu,1: Nenokkadine,1
+Pushpa: The Rise,Race Gurram,1
+1: Nenokkadine,Agent Sai Srinivasa Athreya,1
+Sita Ramam,Race Gurram,0
+Radhe Shyam,Shyam Singha Roy,1
+Radhe Shyam,1: Nenokkadine,0
+Srimanthudu,Akhanda,1
+Baahubali: The Beginning,Liger,1
+Srimanthudu,Karthikeya 2,0
+Magadheera,Akhanda,1
+Ala Vaikunthapurramuloo,Vakeel Saab,1
+Baahubali: The Beginning,Race Gurram,1
+Arjun Reddy,Ala Vaikunthapurramuloo,1
+Athadu,Jersey,0
+Radhe Shyam,Agent Sai Srinivasa Athreya,0
+Vakeel Saab,Manam,1
+Major,Agent Sai Srinivasa Athreya,0
+Magadheera,1: Nenokkadine,1
+Saaho,Liger,1
+Magadheera,Mahanati,1
+Karthikeya 2,Vakeel Saab,1
+Bharat Ane Nenu,Agent Sai Srinivasa Athreya,0
+Bharat Ane Nenu,Ala Vaikunthapurramuloo,1
+Ala Vaikunthapurramuloo,Jersey,1
+Baahubali 2: The Conclusion,Major,1
+Magadheera,Shyam Singha Roy,1
+Mahanati,Karthikeya 2,0
+RRR,Srimanthudu,1
+Bharat Ane Nenu,Liger,1
+Pokiri,Saaho,1
+Pokiri,Pushpa: The Rise,1
+Mahanati,Manam,1
+Rangasthalam,Major,1
+Bharat Ane Nenu,Saaho,1
+Sita Ramam,Saaho,0
+Mahanati,Radhe Shyam,1
+Bharat Ane Nenu,Mahanati,1
+Sita Ramam,Jersey,1
+RRR,Athadu,1
+Eega,Race Gurram,1
+Srimanthudu,Geetha Govindam,0
+Magadheera,Eega,1
+Baahubali: The Beginning,Bharat Ane Nenu,1
+Mahanati,Pushpa: The Rise,1
+Srimanthudu,Rangasthalam,1
+Akhanda,Manam,1
+Sita Ramam,Vakeel Saab,1
+Rangasthalam,Akhanda,1
+Baahubali: The Beginning,Radhe Shyam,1
+Arjun Reddy,Race Gurram,0
+Ala Vaikunthapurramuloo,1: Nenokkadine,1
+Srimanthudu,Saaho,1
+Ala Vaikunthapurramuloo,Liger,1
+Pokiri,Geetha Govindam,1
+Shyam Singha Roy,Liger,1
+Geetha Govindam,Radhe Shyam,1
+Magadheera,Athadu,1
+Sita Ramam,Agent Sai Srinivasa Athreya,0
+Mahanati,Liger,1
+Saaho,Race Gurram,1
+Baahubali 2: The Conclusion,Magadheera,1
+Eega,Mahanati,0
+Eega,Manam,1
+Ala Vaikunthapurramuloo,Karthikeya 2,0
+Magadheera,Jersey,1
+Vakeel Saab,Akhanda,0
+Athadu,Radhe Shyam,0
+Magadheera,Vakeel Saab,1
+Karthikeya 2,Akhanda,0
+Dookudu,Srimanthudu,1
+Pushpa: The Rise,Radhe Shyam,1
+Radhe Shyam,Akhanda,0
+Rangasthalam,Race Gurram,1
+Saaho,1: Nenokkadine,1
+Jersey,Vakeel Saab,1
+Jersey,Manam,1
+Saaho,Major,1
+Pokiri,Race Gurram,1
+Srimanthudu,Liger,1
+Saaho,Karthikeya 2,1
+RRR,Ala Vaikunthapurramuloo,1
+Baahubali 2: The Conclusion,Jersey,1
+Race Gurram,Liger,1
+Bharat Ane Nenu,Manam,1
+Eega,Rangasthalam,1
+Athadu,Rangasthalam,1
+Mahanati,Geetha Govindam,0
+Pushpa: The Rise,Agent Sai Srinivasa Athreya,1
+Dookudu,Vakeel Saab,0
+Jersey,Karthikeya 2,0
+Jersey,Akhanda,0
+Arjun Reddy,Geetha Govindam,1
+Baahubali: The Beginning,Saaho,1
+Srimanthudu,Ala Vaikunthapurramuloo,1
+Eega,Radhe Shyam,0
+Dookudu,Ala Vaikunthapurramuloo,1
+Baahubali 2: The Conclusion,Rangasthalam,1
+Vakeel Saab,Shyam Singha Roy,1
+Eega,Saaho,1
+Baahubali 2: The Conclusion,RRR,1
+Eega,Pushpa: The Rise,1
+Pokiri,Liger,1
+Ala Vaikunthapurramuloo,Major,1
+Geetha Govindam,Karthikeya 2,0
+Baahubali: The Beginning,Mahanati,1
+Mahanati,Rangasthalam,1
+Athadu,Ala Vaikunthapurramuloo,1
+Baahubali: The Beginning,Baahubali 2: The Conclusion,1
+RRR,Liger,1
+Dookudu,Pushpa: The Rise,1
+Vakeel Saab,Liger,1
+Vakeel Saab,1: Nenokkadine,1
+Geetha Govindam,Pushpa: The Rise,0
+Pokiri,Akhanda,1
+Baahubali 2: The Conclusion,Manam,1
+Mahanati,1: Nenokkadine,0
+Magadheera,Arjun Reddy,1
+Mahanati,Vakeel Saab,1
+Rangasthalam,Pushpa: The Rise,1
+Baahubali: The Beginning,RRR,1
+Rangasthalam,Liger,1
+RRR,Race Gurram,1
+Srimanthudu,Manam,1
+Saaho,Vakeel Saab,1
+Manam,Agent Sai Srinivasa Athreya,1
+Karthikeya 2,1: Nenokkadine,1
+Rangasthalam,Karthikeya 2,0
+1: Nenokkadine,Manam,0
+RRR,Eega,1
+Baahubali: The Beginning,Athadu,1
+Geetha Govindam,Sita Ramam,1
+Eega,Akhanda,1
+Arjun Reddy,Saaho,0
+Bharat Ane Nenu,Shyam Singha Roy,1
+Dookudu,Major,1
+Dookudu,Akhanda,1
+Baahubali 2: The Conclusion,Pokiri,1
+Karthikeya 2,Race Gurram,0
+Karthikeya 2,Liger,0
+RRR,Shyam Singha Roy,1
+Baahubali 2: The Conclusion,Agent Sai Srinivasa Athreya,0
+Baahubali: The Beginning,1: Nenokkadine,1
+Baahubali 2: The Conclusion,Radhe Shyam,1
+Mahanati,Saaho,0
+Mahanati,Race Gurram,0
+RRR,Rangasthalam,1
+Jersey,Radhe Shyam,1
+Saaho,Radhe Shyam,0
+Srimanthudu,Bharat Ane Nenu,1
+Geetha Govindam,Agent Sai Srinivasa Athreya,1
+Srimanthudu,Shyam Singha Roy,1
+Ala Vaikunthapurramuloo,Sita Ramam,1
+Eega,Agent Sai Srinivasa Athreya,1
+Arjun Reddy,Akhanda,0
+Vakeel Saab,Race Gurram,0
+Eega,Major,1
+1: Nenokkadine,Liger,1
+Radhe Shyam,Major,1
+RRR,Radhe Shyam,1
+Bharat Ane Nenu,Radhe Shyam,1
+Dookudu,Liger,1
+Mahanati,Major,1
+Sita Ramam,Shyam Singha Roy,1
+Sita Ramam,Liger,1
+Geetha Govindam,Major,0
+Magadheera,Liger,1
+Baahubali 2: The Conclusion,Athadu,1
+Pokiri,Srimanthudu,1
+Srimanthudu,Mahanati,1
+Athadu,Bharat Ane Nenu,1
+Akhanda,Liger,1
+Eega,Geetha Govindam,1
+Baahubali: The Beginning,Agent Sai Srinivasa Athreya,0
+Athadu,Sita Ramam,0
+Major,Race Gurram,1
+Geetha Govindam,Rangasthalam,0
+Liger,Agent Sai Srinivasa Athreya,0
+Pokiri,Bharat Ane Nenu,1
+Karthikeya 2,Manam,0
+Bharat Ane Nenu,Major,1
+Rangasthalam,1: Nenokkadine,1
+Race Gurram,Manam,1
+Arjun Reddy,Major,1
+Magadheera,Dookudu,1
+Rangasthalam,Manam,1
+Ala Vaikunthapurramuloo,Race Gurram,1
+Baahubali 2: The Conclusion,Bharat Ane Nenu,1
+Jersey,Pushpa: The Rise,1
+Pokiri,Dookudu,1
+Jersey,Agent Sai Srinivasa Athreya,0
+Magadheera,Manam,1
+Athadu,Agent Sai Srinivasa Athreya,1
+Dookudu,Jersey,0
+RRR,Agent Sai Srinivasa Athreya,0
+Dookudu,Geetha Govindam,1
+Sita Ramam,1: Nenokkadine,0
+Bharat Ane Nenu,Pushpa: The Rise,1
+Karthikeya 2,Shyam Singha Roy,1
+Radhe Shyam,Race Gurram,0
+Baahubali 2: The Conclusion,Shyam Singha Roy,1
+Akhanda,Shyam Singha Roy,0
+Saaho,Shyam Singha Roy,1
+Pokiri,Radhe Shyam,0
+Eega,Arjun Reddy,0
+Jersey,Shyam Singha Roy,1
+Baahubali: The Beginning,Shyam Singha Roy,1
+Baahubali 2: The Conclusion,Srimanthudu,1
+Pushpa: The Rise,Major,1
+Magadheera,Saaho,1
+Geetha Govindam,Race Gurram,1
+Dookudu,Arjun Reddy,0
+Sita Ramam,Rangasthalam,1
+Sita Ramam,Major,1
+Pokiri,Major,1
+Geetha Govindam,Ala Vaikunthapurramuloo,1
+Baahubali 2: The Conclusion,Ala Vaikunthapurramuloo,1
+Dookudu,Radhe Shyam,0
+RRR,Bharat Ane Nenu,1
+Arjun Reddy,Vakeel Saab,1
+Bharat Ane Nenu,Karthikeya 2,0
+Saaho,Akhanda,1
+Baahubali: The Beginning,Akhanda,1
+Pokiri,Athadu,1
+Ala Vaikunthapurramuloo,Shyam Singha Roy,1
+Athadu,Shyam Singha Roy,1
+Dookudu,Bharat Ane Nenu,1
+Baahubali 2: The Conclusion,Vakeel Saab,1
+Dookudu,Karthikeya 2,0
+Akhanda,Race Gurram,1
+1: Nenokkadine,Race Gurram,1
+Athadu,Karthikeya 2,1
+Karthikeya 2,Major,0
+Eega,Pokiri,1
+RRR,1: Nenokkadine,1
+Major,Akhanda,1
+Athadu,Vakeel Saab,1
+Akhanda,Agent Sai Srinivasa Athreya,0
+Pushpa: The Rise,Saaho,1
+RRR,Manam,1
+Radhe Shyam,Liger,1
+Baahubali: The Beginning,Eega,1
+Pokiri,Ala Vaikunthapurramuloo,1
+Ala Vaikunthapurramuloo,Rangasthalam,1
+Bharat Ane Nenu,Sita Ramam,1
+Eega,Dookudu,1
+Srimanthudu,Radhe Shyam,1
+Shyam Singha Roy,Manam,1
+Pushpa: The Rise,Karthikeya 2,1
+Jersey,Saaho,0
+Pushpa: The Rise,Manam,1
+Magadheera,Major,1
+Geetha Govindam,Saaho,0
+Baahubali: The Beginning,Sita Ramam,1
+Ala Vaikunthapurramuloo,Akhanda,1
+Mahanati,Shyam Singha Roy,1
+Eega,Sita Ramam,0
+Eega,Athadu,1
+Baahubali 2: The Conclusion,Karthikeya 2,0
+Baahubali: The Beginning,Rangasthalam,1
+Baahubali: The Beginning,Pushpa: The Rise,1
+Srimanthudu,Major,1
+Ala Vaikunthapurramuloo,Pushpa: The Rise,1
+Baahubali 2: The Conclusion,Pushpa: The Rise,1
+Arjun Reddy,Manam,1
+Race Gurram,Agent Sai Srinivasa Athreya,1
+Rangasthalam,Radhe Shyam,1
+Baahubali 2: The Conclusion,1: Nenokkadine,1
+Saaho,Manam,0
+RRR,Pushpa: The Rise,1
+Eega,Bharat Ane Nenu,1
+Eega,Karthikeya 2,0
+Pokiri,Arjun Reddy,0
+Saaho,Agent Sai Srinivasa Athreya,1
+Baahubali: The Beginning,Ala Vaikunthapurramuloo,1
+RRR,Magadheera,1
+Sita Ramam,Manam,1
+Ala Vaikunthapurramuloo,Saaho,1
+Arjun Reddy,Sita Ramam,1
+Pushpa: The Rise,Vakeel Saab,1
+Jersey,Shyam Singha Roy,1
+Pokiri,Akhanda,1
+Srimanthudu,Pushpa: The Rise,1
+Arjun Reddy,Pushpa: The Rise,0
+Athadu,Vakeel Saab,1
+Baahubali 2: The Conclusion,Mahanati,1
+Pokiri,Geetha Govindam,1
+Srimanthudu,Arjun Reddy,1
+Vakeel Saab,Liger,1
+Karthikeya 2,Liger,0
+Baahubali: The Beginning,Geetha Govindam,0
+Jersey,Saaho,0
+Baahubali: The Beginning,Sita Ramam,1
+Arjun Reddy,Radhe Shyam,1
+Radhe Shyam,Karthikeya 2,0
+Baahubali: The Beginning,Athadu,1
+Srimanthudu,Race Gurram,1
+Rangasthalam,Akhanda,1
+Pokiri,Race Gurram,1
+Srimanthudu,Vakeel Saab,1
+Mahanati,Arjun Reddy,1
+Pokiri,Manam,1
+Baahubali: The Beginning,Magadheera,1
+Magadheera,Bharat Ane Nenu,1
+Dookudu,Jersey,0
+Akhanda,1: Nenokkadine,1
+Sita Ramam,Major,1
+Pokiri,Mahanati,0
+Arjun Reddy,Agent Sai Srinivasa Athreya,0
+Baahubali 2: The Conclusion,Agent Sai Srinivasa Athreya,0
+Baahubali: The Beginning,Vakeel Saab,1
+Geetha Govindam,Sita Ramam,1
+RRR,Athadu,1
+Rangasthalam,Radhe Shyam,1
+Ala Vaikunthapurramuloo,Radhe Shyam,1
+Athadu,Liger,1
+Rangasthalam,Karthikeya 2,0
+Arjun Reddy,Liger,1
+Dookudu,Shyam Singha Roy,0
+Pushpa: The Rise,Shyam Singha Roy,1
+Eega,Agent Sai Srinivasa Athreya,1
+Radhe Shyam,Manam,1
+Bharat Ane Nenu,Jersey,1
+Pokiri,Srimanthudu,1
+Athadu,Karthikeya 2,1
+Mahanati,Rangasthalam,1
+Sita Ramam,Agent Sai Srinivasa Athreya,0
+Baahubali 2: The Conclusion,Rangasthalam,1
+Magadheera,Karthikeya 2,0
+Eega,Shyam Singha Roy,0
+Athadu,1: Nenokkadine,1
+Baahubali 2: The Conclusion,Saaho,1
+Baahubali 2: The Conclusion,Dookudu,1
+Ala Vaikunthapurramuloo,Manam,1
+Shyam Singha Roy,Liger,1
+Magadheera,Geetha Govindam,1
+Dookudu,1: Nenokkadine,1
+Magadheera,Race Gurram,1
+Bharat Ane Nenu,Akhanda,1
+Srimanthudu,Rangasthalam,1
+Pokiri,Agent Sai Srinivasa Athreya,1
+Shyam Singha Roy,Race Gurram,0
+Magadheera,Ala Vaikunthapurramuloo,1
+Geetha Govindam,Agent Sai Srinivasa Athreya,1
+Athadu,Shyam Singha Roy,1
+Ala Vaikunthapurramuloo,Liger,1
+RRR,Rangasthalam,1
+Eega,Vakeel Saab,0
+Srimanthudu,Sita Ramam,1
+Magadheera,Srimanthudu,1
+RRR,Akhanda,1
+Shyam Singha Roy,1: Nenokkadine,1
+Mahanati,Liger,1
+Sita Ramam,1: Nenokkadine,0
+Dookudu,Liger,1
+Baahubali 2: The Conclusion,Arjun Reddy,1
+Geetha Govindam,Manam,1
+Baahubali 2: The Conclusion,Akhanda,1
+Magadheera,Athadu,1
+Geetha Govindam,Vakeel Saab,0
+Arjun Reddy,Karthikeya 2,0
+Baahubali: The Beginning,Manam,1
+Arjun Reddy,Jersey,1
+Athadu,Manam,0
+RRR,Geetha Govindam,0
+Pushpa: The Rise,Agent Sai Srinivasa Athreya,1
+Magadheera,Jersey,1
+Dookudu,Race Gurram,1
+Baahubali 2: The Conclusion,Race Gurram,1
+Jersey,Vakeel Saab,1
+Bharat Ane Nenu,Geetha Govindam,0
+Major,Manam,1
+Athadu,Sita Ramam,0
+Srimanthudu,1: Nenokkadine,1
+Baahubali 2: The Conclusion,Eega,1
+RRR,Saaho,1
+Athadu,Mahanati,0
+Major,1: Nenokkadine,1
+Radhe Shyam,Vakeel Saab,1
+Pokiri,Major,1
+Bharat Ane Nenu,Sita Ramam,1
+RRR,Vakeel Saab,1
+Dookudu,Manam,1
+Dookudu,Rangasthalam,1
+Baahubali: The Beginning,Arjun Reddy,1
+RRR,Arjun Reddy,1
+Sita Ramam,Jersey,1
+Baahubali: The Beginning,Major,1
+Arjun Reddy,1: Nenokkadine,0
+Magadheera,Liger,1
+RRR,Mahanati,1
+RRR,Dookudu,1
+Sita Ramam,Race Gurram,0
+Baahubali: The Beginning,Dookudu,1
+Eega,Sita Ramam,0
+Arjun Reddy,Shyam Singha Roy,1
+Bharat Ane Nenu,Vakeel Saab,1
+Eega,1: Nenokkadine,1
+RRR,Sita Ramam,1
+Magadheera,Rangasthalam,1
+RRR,Karthikeya 2,0
+Baahubali: The Beginning,Srimanthudu,1
+Jersey,Liger,1
+Srimanthudu,Liger,1
+RRR,Major,1
+Pokiri,Arjun Reddy,0
+Baahubali 2: The Conclusion,Geetha Govindam,0
+Athadu,Rangasthalam,1
+Pokiri,Dookudu,1
+Rangasthalam,Pushpa: The Rise,1
+Pushpa: The Rise,Akhanda,1
+Geetha Govindam,Akhanda,0
+Magadheera,Radhe Shyam,1
+Arjun Reddy,Rangasthalam,1
+Magadheera,Pushpa: The Rise,1
+Athadu,Jersey,0
+Pokiri,Pushpa: The Rise,1
+Bharat Ane Nenu,Arjun Reddy,1
+Major,Agent Sai Srinivasa Athreya,0
+Mahanati,Akhanda,0
+Mahanati,Sita Ramam,1
+Dookudu,Mahanati,0
+Bharat Ane Nenu,1: Nenokkadine,1
+Geetha Govindam,1: Nenokkadine,0
+Pushpa: The Rise,1: Nenokkadine,1
+Major,Vakeel Saab,1
+Dookudu,Saaho,1
+Manam,Agent Sai Srinivasa Athreya,1
+Pokiri,Saaho,1
+Bharat Ane Nenu,Race Gurram,1
+Eega,Srimanthudu,1
+Baahubali: The Beginning,Karthikeya 2,0
+Geetha Govindam,Shyam Singha Roy,1
+Eega,Ala Vaikunthapurramuloo,1
+Mahanati,Ala Vaikunthapurramuloo,1
+Major,Shyam Singha Roy,1
+Pokiri,1: Nenokkadine,1
+Pushpa: The Rise,Race Gurram,1
+1: Nenokkadine,Liger,1
+Rangasthalam,Race Gurram,1
+Radhe Shyam,Shyam Singha Roy,1
+Radhe Shyam,1: Nenokkadine,0
+Srimanthudu,Akhanda,1
+Baahubali: The Beginning,Agent Sai Srinivasa Athreya,0
+Srimanthudu,Karthikeya 2,0
+Magadheera,Akhanda,1
+Ala Vaikunthapurramuloo,Vakeel Saab,1
+Baahubali: The Beginning,Race Gurram,1
+Arjun Reddy,Ala Vaikunthapurramuloo,1
+Pokiri,Sita Ramam,0
+Radhe Shyam,Liger,1
+Vakeel Saab,Manam,1
+Major,Liger,1
+Magadheera,1: Nenokkadine,1
+Saaho,Agent Sai Srinivasa Athreya,1
+Magadheera,Mahanati,1
+Karthikeya 2,Vakeel Saab,1
+Bharat Ane Nenu,Liger,1
+Bharat Ane Nenu,Ala Vaikunthapurramuloo,1
+Ala Vaikunthapurramuloo,Sita Ramam,1
+Baahubali 2: The Conclusion,Major,1
+Magadheera,Shyam Singha Roy,1
+Mahanati,Karthikeya 2,0
+RRR,Srimanthudu,1
+Bharat Ane Nenu,Agent Sai Srinivasa Athreya,0
+Athadu,Saaho,1
+Athadu,Pushpa: The Rise,1
+Mahanati,Manam,1
+Jersey,Major,1
+Bharat Ane Nenu,Saaho,1
+Rangasthalam,Saaho,1
+Mahanati,Radhe Shyam,1
+Bharat Ane Nenu,Mahanati,1
+Rangasthalam,Sita Ramam,1
+RRR,Pokiri,1
+Eega,Race Gurram,1
+Srimanthudu,Geetha Govindam,0
